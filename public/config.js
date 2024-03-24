@@ -16,5 +16,5 @@ window.__CONFIG__ = {
   VITE_BACKEND_URL: "https://backend.05movies.com",
 
   // A comma separated list of disallowed IDs in the case of a DMCA claim - in the format "series-<id>" and "movie-<id>"
-  VITE_DISALLOWED_IDS: "movie-929,movie-60366"
+  VITE_DISALLOWED_IDS: ""
 };
